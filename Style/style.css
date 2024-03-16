@@ -1,0 +1,15 @@
+.show{
+    display: none;
+}
+.position-relative{
+    text-align: center;
+    margin: 7px 7px;
+    color: tomato;
+    
+}
+
+.inputs p{
+    color: red;
+    font-size: 13px;
+
+}
